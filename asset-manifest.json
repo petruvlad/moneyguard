@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.css": "/moneyguard/static/css/main.7acaea2f.css",
-    "main.js": "/moneyguard/static/js/main.07d3183d.js",
+    "main.js": "/moneyguard/static/js/main.167de29f.js",
+    "static/css/775.afd69e9d.chunk.css": "/moneyguard/static/css/775.afd69e9d.chunk.css",
+    "static/js/775.275182c6.chunk.js": "/moneyguard/static/js/775.275182c6.chunk.js",
+    "static/js/938.2dad9619.chunk.js": "/moneyguard/static/js/938.2dad9619.chunk.js",
+    "static/css/352.aa856f77.chunk.css": "/moneyguard/static/css/352.aa856f77.chunk.css",
+    "static/js/352.7b8591c7.chunk.js": "/moneyguard/static/js/352.7b8591c7.chunk.js",
+    "static/css/383.90c8d00c.chunk.css": "/moneyguard/static/css/383.90c8d00c.chunk.css",
+    "static/js/383.3954d100.chunk.js": "/moneyguard/static/js/383.3954d100.chunk.js",
+    "static/js/17.21469965.chunk.js": "/moneyguard/static/js/17.21469965.chunk.js",
+    "static/js/467.4c5ac3d5.chunk.js": "/moneyguard/static/js/467.4c5ac3d5.chunk.js",
     "index.html": "/moneyguard/index.html",
-    "main.7acaea2f.css.map": "/moneyguard/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/moneyguard/static/js/main.07d3183d.js.map"
+    "main.167de29f.js.map": "/moneyguard/static/js/main.167de29f.js.map",
+    "775.afd69e9d.chunk.css.map": "/moneyguard/static/css/775.afd69e9d.chunk.css.map",
+    "775.275182c6.chunk.js.map": "/moneyguard/static/js/775.275182c6.chunk.js.map",
+    "352.aa856f77.chunk.css.map": "/moneyguard/static/css/352.aa856f77.chunk.css.map",
+    "352.7b8591c7.chunk.js.map": "/moneyguard/static/js/352.7b8591c7.chunk.js.map",
+    "383.90c8d00c.chunk.css.map": "/moneyguard/static/css/383.90c8d00c.chunk.css.map",
+    "383.3954d100.chunk.js.map": "/moneyguard/static/js/383.3954d100.chunk.js.map",
+    "17.21469965.chunk.js.map": "/moneyguard/static/js/17.21469965.chunk.js.map",
+    "467.4c5ac3d5.chunk.js.map": "/moneyguard/static/js/467.4c5ac3d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.167de29f.js"
   ]
 }
