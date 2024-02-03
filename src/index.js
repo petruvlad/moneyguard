@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from '../src/components/App'; // Dacă ai un fișier App care integrează componentele și paginile
+import App from './App/App'; // Dacă ai un fișier App care integrează componentele și paginile
 
 ReactDOM.render(
   <React.StrictMode>
